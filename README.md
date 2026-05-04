@@ -21,7 +21,7 @@ Welcome! This project is designed to help you **truly understand React**, not ju
 
 ---
 
-# 🧠 2. Key Terminology (Simple Definitions)
+# Key Terminology (React + Git + GitHub)
 
 ## 🌐 General Frontend Terms
 
@@ -55,7 +55,7 @@ Welcome! This project is designed to help you **truly understand React**, not ju
 
 ---
 
-# ⚛️ 3. What React Is and How It Works
+# What React Is and How It Works
 
 ## 🧩 What is React?
 
@@ -382,7 +382,7 @@ When `count` changes → UI updates automatically.
 
 ---
 
-# 🤔 4. Why Use React Instead of Plain JavaScript?
+# Why Use React Instead of Plain JavaScript?
 
 ## 😵 Problem with Vanilla JavaScript
 
@@ -419,7 +419,7 @@ Instead of:
 
 ---
 
-# 📁 5. React Project Structure Explained
+# React Project Structure (Folders & Files Explained)
 
 A typical React project looks like this:
 
@@ -487,7 +487,7 @@ Common files:
 
 ---
 
-# ▶️ 6. How to Write and Run React Code
+# How to Write and Run React Code
 
 ## ✍️ Writing Code
 
@@ -526,7 +526,7 @@ http://localhost:3000
 
 ---
 
-# 🛠️ 7. Tools You Need
+# Tools You Need (and Why)
 
 ## 🟢 Node.js
 
@@ -559,7 +559,7 @@ npm install
 
 ---
 
-# 🌱 8. Why Installing React Matters
+# Why Installing React Matters
 
 ## 🤔 What Happens During Installation?
 
@@ -599,7 +599,7 @@ Without proper setup:
 
 ---
 
-# 🧰 9. Step-by-Step React Installation Guide
+# Step-by-Step React Installation Guide
 
 ## ✅ Step 1: Install Node.js
 
@@ -638,7 +638,7 @@ npm start
 
 ---
 
-# 📥 10. Working with Existing React Projects
+# Working with Existing React Projects
 
 ## 🧠 Common Beginner Mistake
 
