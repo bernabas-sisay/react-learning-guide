@@ -9,15 +9,15 @@ Welcome! This project is designed to help you **truly understand React**, not ju
 
 # 📚 1. Content Outline
 
-* Key Terminology (React + Git + GitHub)
-* What React Is and How It Works
-* Why Use React Instead of Plain JavaScript
-* React Project Structure (Folders & Files Explained)
-* How to Write and Run React Code
-* Tools You Need (and Why)
-* Why Installing React Matters
-* Step-by-Step React Installation Guide
-* Working with Existing React Projects
+* [Key Terminology (React + Git + GitHub)](#key-terminology-react--git--github)
+* [What React Is and How It Works](#what-react-is-and-how-it-works)
+* [Why Use React Instead of Plain JavaScript](#why-use-react-instead-of-plain-javascript)
+* [React Project Structure (Folders & Files Explained)](#react-project-structure-folders--files-explained)
+* [How to Write and Run React Code](#how-to-write-and-run-react-code)
+* [Tools You Need (and Why)](#tools-you-need-and-why)
+* [Why Installing React Matters](#why-installing-react-matters)
+* [Step-by-Step React Installation Guide](#step-by-step-react-installation-guide)
+* [Working with Existing React Projects](#working-with-existing-react-projects)
 
 ---
 
