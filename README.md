@@ -31,23 +31,23 @@ By the end of this guide, you'll be able to:
 
 ## 🛠️ **Core Concepts (Build Your Foundation)**
 6. [React Project Structure Explained](#react-project-structure-folders--files-explained)
-7. [Deep Dive: Project Architecture](#deep-dive-understanding-react-project-structure)
-8. [Your First React Component](#writing-react-code-from-zero-to-real-understanding)
+7. Deep Dive: Project Architecture
+8. Your First React Component
 
 ## ⚙️ **Intermediate Skills (Level Up!)**
-9. [Working with State & Props](#-114-how-to-never-feel-lost-again)
-10. [Handling Events & User Interactions](#handling-events--user-interactions)
-11. [Working with Forms](#working-with-forms)
+9. Working with State & Props
+10. Handling Events & User Interactions
+11. Working with Forms
 
 ## 🚀 **Advanced Topics (Master React)**
-12. [API Integration & Data Fetching](#api-integration--data-fetching)
-13. [Component Lifecycle & Hooks](#component-lifecycle--hooks)
-14. [Project Deployment](#project-deployment)
+12. API Integration & Data Fetching
+13. Component Lifecycle & Hooks
+14. Project Deployment
 
-## 📝 [Practice Exercises & Solutions](#practice-exercises--solutions)
-## 🎮 [Mini Projects](#mini-projects)
-## 📚 [Learning Resources](#learning-resources)
-## 🗂️ [Repository Structure Guide](#repository-structure-guide)
+## 📝 Practice Exercises & Solutions
+## 🎮 Mini Projects
+## 📚 Learning Resources
+## 🗂️ Repository Structure Guide
 
 ---
 
