@@ -18,6 +18,7 @@ You're doing great! Now let's explore more advanced React features and patterns 
 
 ## 🎯 Topics
 
+<a id="component-lifecycle-hooks"></a>
 ### 1️⃣ useEffect Hook (Advanced State) - 60 mins
 
 **What is useEffect?**
@@ -95,6 +96,7 @@ useEffect(() => {
 
 ---
 
+<a id="api-integration-data-fetching"></a>
 ### 2️⃣ API Integration (75 mins)
 
 **What's an API?**

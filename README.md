@@ -31,23 +31,27 @@ By the end of this guide, you'll be able to:
 
 ## 🛠️ **Core Concepts (Build Your Foundation)**
 6. [React Project Structure Explained](#react-project-structure-folders--files-explained)
-7. Deep Dive: Project Architecture
-8. Your First React Component
+7. [Deep Dive: Project Architecture](#deep-dive-project-architecture)
+8. [Your First React Component](#your-first-react-component)
 
 ## ⚙️ **Intermediate Skills (Level Up!)**
-9. Working with State & Props
-10. Handling Events & User Interactions
-11. Working with Forms
+9. [Working with State & Props](#working-with-state-and-props)
+10. [Handling Events & User Interactions](02-core-concepts/README.md#handling-events-user-interactions)
+11. [Working with Forms](02-core-concepts/README.md#working-with-forms)
 
 ## 🚀 **Advanced Topics (Master React)**
-12. API Integration & Data Fetching
-13. Component Lifecycle & Hooks
-14. Project Deployment
+12. [API Integration & Data Fetching](03-intermediate/README.md#api-integration-data-fetching)
+13. [Component Lifecycle & Hooks](03-intermediate/README.md#component-lifecycle-hooks)
+14. [Project Deployment](#project-deployment)
 
-## 📝 Practice Exercises & Solutions
-## 🎮 Mini Projects
-## 📚 Learning Resources
-## 🗂️ Repository Structure Guide
+<a id="practice-exercises"></a>
+## 📝 [Practice Exercises & Solutions](#practice-exercises)
+<a id="mini-projects"></a>
+## 🎮 [Mini Projects](#mini-projects)
+<a id="learning-resources"></a>
+## 📚 [Learning Resources](#learning-resources)
+<a id="repository-structure-guide"></a>
+## 🗂️ [Repository Structure Guide](#repository-structure-guide)
 
 ---
 
@@ -828,6 +832,8 @@ In React, you:
 
 🧱 11.2 Your First React Component
 
+<a id="your-first-react-component"></a>
+
 A component is just a function that returns UI.
 
 function App() {
@@ -937,6 +943,8 @@ React:
 ---
 
 🔄 11.5 Making Your UI Dynamic (State)
+
+<a id="working-with-state-and-props"></a>
 
 Static UI = boring
 Dynamic UI = powerful
@@ -1077,6 +1085,8 @@ Later:
 If you understand this section, you’ve crossed the hardest bridge.
 Now you’re not just reading React — you’re thinking in React 🧠⚛️
 
+
+<a id="deep-dive-project-architecture"></a>
 🧭 12. Deep Dive: Understanding React Project Structure (Never Feel Lost Again)
 
 This section is your navigation system.
@@ -1407,6 +1417,18 @@ Think of the project like a movie production 🎬
 
 Once you understand this structure, every React project becomes readable like a book 📖✨
 ---
+
+<a id="project-deployment"></a>
+## Project Deployment
+
+Learn simple deployment steps to publish your app (Netlify, Vercel, GitHub Pages). Typical flow:
+
+- Build the app (`npm run build`)
+- Serve the `build` or `dist` folder on a static host
+- Configure domain / environment variables as needed
+
+More deployment notes are available in the `04-projects/` exercise guides.
+
 
 
 ## ⚠️ Important Tips

@@ -165,6 +165,8 @@ function Counter() {
 
 ### 4️⃣ Events & User Interactions (45 mins)
 
+<a id="handling-events-user-interactions"></a>
+
 **Common Events:**
 
 | Event | Triggered When |
@@ -193,6 +195,7 @@ function Click Counter() {
 }
 ```
 
+<a id="working-with-forms"></a>
 **Form example:**
 
 ```jsx
